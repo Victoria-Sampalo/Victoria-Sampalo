@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vicky</h1>
 <h3 align="center">Creative Programmer, Enthusiastic Learner, Fearless in Facing Challenges</h3>
 
-- 👯 I’m currently seeking employment with immediate availability for Frontend, Backend, and QA roles.
 - 🌱 I’m currently learning **Typescript**
 - 📫 How to reach me **victoriasampalo19@gmail.com**
-- ⚡ Fun fact **In my free time, I enjoy practicing CrossFit🏋️ because I love to eat!**
+- ⚡ Fun fact **In my free time, I enjoy practicing CrossFit🏋️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

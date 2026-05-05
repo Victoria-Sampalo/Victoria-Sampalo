@@ -24,13 +24,5 @@
   <img src="https://skillicons.dev/icons?i=aws,bash,bootstrap,css,docker,express,figma,git,html,illustrator,java,js,jenkins,linux,mongodb,mysql,nestjs,nginx,nodejs,photoshop,php,postman,python,react,ts&perline=13" />
 </p>
 
-<br/>
 
-<h3 align="center">GitHub Stats:</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoria-sampalo&show_icons=true&locale=en" height="150" alt="stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoria-sampalo&layout=compact&locale=en" height="150" alt="top langs" />
-</div>
-</p>

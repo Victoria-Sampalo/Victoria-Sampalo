@@ -26,10 +26,11 @@
 
 <br/>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoria-sampalo&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=victoria-sampalo&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victoria-sampalo&show_icons=true&locale=en" height="150" alt="stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoria-sampalo&layout=compact&locale=en" height="150" alt="top langs" />
+</div>
 </p>
